@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database adbwedding-db (70d34ddc-ed65-4ee3-985e-27a8a18a5729):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/70d34ddc-ed65-4ee3-985e-27a8a18a5729-00000022-00000000-000050b4-70b1d301cd415ccd09c0a0f2e9faad51.sql?X-Amz-Expires=3600&X-Amz-Date=20260726T070947Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260726%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b8d17cf2aa9079238095e9e5175fe0562a1c93783e95faea491b3e4fbe595ee9
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/70d34ddc-ed65-4ee3-985e-27a8a18a5729-00000023-00000000-000050b4-b260bc5fc72d8c17cb73267ede2b4d1c.sql?X-Amz-Expires=3600&X-Amz-Date=20260726T072927Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260726%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e2a8fc83e29f8eb5ea8bd36d5b937559a2466ffbb91497db8cf9d4b6ed96956a
 ├ Downloading SQL to daily/2026-07-26/adbwedding-db.sql
 │
 🌀 Downloaded to daily/2026-07-26/adbwedding-db.sql successfully!
