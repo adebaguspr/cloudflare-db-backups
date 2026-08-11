@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.121.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database adbwedding2-db (4c1d4609-2ca7-4442-92e8-aed296c16485):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/4c1d4609-2ca7-4442-92e8-aed296c16485-00000059-00000000-000050c4-dd5122bdc0f9c8383173e2a28d837c8f.sql?X-Amz-Expires=3600&X-Amz-Date=20260811T220245Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=113a48c8f6d04818768d40985d520c69c9a4d6212e235c57e52198f5f5625d7c
+├ Downloading SQL to daily/2026-08-12/adbwedding2-db.sql
+│
+🌀 Downloaded to daily/2026-08-12/adbwedding2-db.sql successfully!
