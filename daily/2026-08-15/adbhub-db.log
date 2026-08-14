@@ -1,0 +1,17 @@
+
+ ⛅️ wrangler 4.123.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database adbhub-db (358d2a4a-bce1-4a98-a410-267c6f9cdf77):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/358d2a4a-bce1-4a98-a410-267c6f9cdf77-000003c4-00000000-000050c7-de3c154942fe51674702160502b8087e.sql?X-Amz-Expires=3600&X-Amz-Date=20260814T220201Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260814%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1cecc56f1b13778d19a242bd031a36e7539b72c0554910a1259c2332b067012b
+├ Downloading SQL to daily/2026-08-15/adbhub-db.sql
+│
+🌀 Downloaded to daily/2026-08-15/adbhub-db.sql successfully!
+npm notice
+npm notice New major version of npm available! 11.17.0 -> 12.0.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2
+npm notice To update run: npm install -g npm@12.0.2
+npm notice
