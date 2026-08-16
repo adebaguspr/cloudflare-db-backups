@@ -612,6 +612,7 @@ INSERT INTO "kv_store" ("key","value") VALUES('rl:api-unauth:2a04:c300:400::13',
 INSERT INTO "kv_store" ("key","value") VALUES('rl:api-unauth:130.12.180.126','{"n":2,"start":1786446585}');
 INSERT INTO "kv_store" ("key","value") VALUES('rl:oauth-google:35.252.239.12','{"n":1,"start":1786451895}');
 INSERT INTO "kv_store" ("key","value") VALUES('rl:oauth-google:34.82.88.120','{"n":1,"start":1786740370}');
+INSERT INTO "kv_store" ("key","value") VALUES('rl:api-unauth:34.147.99.66','{"n":15,"start":1786839817}');
 CREATE TABLE stock_contributors (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         date TEXT NOT NULL DEFAULT '',
