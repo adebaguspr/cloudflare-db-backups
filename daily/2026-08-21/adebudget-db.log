@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.125.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database adebudget-db (cd0f142d-d4b3-4b8a-b1ba-c924c523a5c2):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/cd0f142d-d4b3-4b8a-b1ba-c924c523a5c2-0000031a-00000000-000050cd-da99683fbdb9f3f0cab549513624a738.sql?X-Amz-Expires=3600&X-Amz-Date=20260820T221307Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260820%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=83d630082cfd4e79937c5b4fbbf9c2915205c79adabb9ccd7ce417e9d9a6a378
+├ Downloading SQL to daily/2026-08-21/adebudget-db.sql
+│
+🌀 Downloaded to daily/2026-08-21/adebudget-db.sql successfully!
