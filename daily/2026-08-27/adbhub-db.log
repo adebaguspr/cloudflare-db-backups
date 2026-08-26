@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.126.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database adbhub-db (358d2a4a-bce1-4a98-a410-267c6f9cdf77):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/358d2a4a-bce1-4a98-a410-267c6f9cdf77-00000582-00000000-000050d3-0ac02453f65c2621441ec66a30a67eb0.sql?X-Amz-Expires=3600&X-Amz-Date=20260826T221229Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260826%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=41df7dbb6a9533920d534ac9444e67a762496c06cf9c7060217556b3875fe4ab
+├ Downloading SQL to daily/2026-08-27/adbhub-db.sql
+│
+🌀 Downloaded to daily/2026-08-27/adbhub-db.sql successfully!
