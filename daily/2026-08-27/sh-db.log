@@ -6,20 +6,7 @@ Resource location: remote
 🌀 Executing on remote database sh-db (e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528):
 ├ Creating export
 │
-
-[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mA fetch request failed, likely due to a connectivity issue.[0m
-
-  
-  Common causes:
-    - No internet connection or network connectivity problems
-    - Firewall or VPN blocking the request
-    - Network proxy configuration issues
-  
-  Please check your network connection and try again.
-
-
-[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mfetch failed[0m
-
-
-[32mIf you think this is a bug then please create an issue at https://github.com/cloudflare/workers-sdk/issues/new/choose[0m
-🪵  Logs were written to "/home/ubuntu/.wrangler/logs/wrangler-2026-08-27_05-27-11_454.log"
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528-00000002-00000000-000050d4-c60910bcc77e26e04fe0513f256e0b3b.sql?X-Amz-Expires=3600&X-Amz-Date=20260827T053045Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260827%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5ca19b597af178d2ba223e4df57b22ef35e0622fa5e6f4a6b52f3d46088cde03
+├ Downloading SQL to daily/2026-08-27/sh-db.sql
+│
+🌀 Downloaded to daily/2026-08-27/sh-db.sql successfully!
