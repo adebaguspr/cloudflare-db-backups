@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.127.1
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database buwuhan-ade-db (af91a96a-5925-4e43-baef-66e78991e531):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/af91a96a-5925-4e43-baef-66e78991e531-0000000d-00000000-000050d6-7b22d3e5807a0250446d79c2e2a7faf9.sql?X-Amz-Expires=3600&X-Amz-Date=20260829T221539Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260829%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4c9fc92aeeacb0db0c079603ec7fd2d675db31c84ce0b9f0441b119838c4b876
+├ Downloading SQL to daily/2026-08-30/buwuhan-ade-db.sql
+│
+🌀 Downloaded to daily/2026-08-30/buwuhan-ade-db.sql successfully!

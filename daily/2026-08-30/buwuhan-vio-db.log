@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.127.1
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database buwuhan-vio-db (8d12729e-3b4b-419e-9304-392af6ce58ba):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/8d12729e-3b4b-419e-9304-392af6ce58ba-0000000d-00000000-000050d6-209b3cde026062be2e4bbeeb46f5f70b.sql?X-Amz-Expires=3600&X-Amz-Date=20260829T221545Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260829%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8e272d4cc9442bab2dfa513cea42c4be1f1ce4cc181e85697bb82e1dc75b001b
+├ Downloading SQL to daily/2026-08-30/buwuhan-vio-db.sql
+│
+🌀 Downloaded to daily/2026-08-30/buwuhan-vio-db.sql successfully!
