@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database adbhub-db (358d2a4a-bce1-4a98-a410-267c6f9cdf77):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/358d2a4a-bce1-4a98-a410-267c6f9cdf77-000005af-00000000-000050d7-a65d21a2f91d94daf8148d794e39182d.sql?X-Amz-Expires=3600&X-Amz-Date=20260830T002559Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260830%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f5fab7db4409851877b49c08365a8fa44b3444eca2b5ba74ba801a73bf3a3957
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/358d2a4a-bce1-4a98-a410-267c6f9cdf77-000005af-00000000-000050d7-a65d21a2f91d94daf8148d794e39182d.sql?X-Amz-Expires=3600&X-Amz-Date=20260830T002714Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260830%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2063ae0625b0e580eb58d35e89e25e522b025f10d8dcfbccf8d701b924964c39
 ├ Downloading SQL to daily/2026-08-30/adbhub-db.sql
 │
 🌀 Downloaded to daily/2026-08-30/adbhub-db.sql successfully!
