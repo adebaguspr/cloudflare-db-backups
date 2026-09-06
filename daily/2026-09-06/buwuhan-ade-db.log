@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database buwuhan-ade-db (af91a96a-5925-4e43-baef-66e78991e531):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/af91a96a-5925-4e43-baef-66e78991e531-00000017-00000000-000050de-8c6ef71c0973578810b82768c2a1dff1.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T135931Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9bcf926eafc8ddf1a7a03639ba8bcf1d3aeb6698e6ef120fed759d6d0f38853e
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/af91a96a-5925-4e43-baef-66e78991e531-00000018-00000000-000050de-2ea9dfaee1e5d75fc25da6d17f106310.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T140111Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3c9826727639f9d3261b3846a9760c138ad8a50fc84f3cb4a122375287864c3c
 ├ Downloading SQL to daily/2026-09-06/buwuhan-ade-db.sql
 │
 🌀 Downloaded to daily/2026-09-06/buwuhan-ade-db.sql successfully!
