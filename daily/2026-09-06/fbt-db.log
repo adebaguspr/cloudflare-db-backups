@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database fbt-db (a33216cd-233f-4726-a2e3-f20c5ed0208d):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/a33216cd-233f-4726-a2e3-f20c5ed0208d-00000029-00000000-000050de-22f0204888624b7b4b3abecb493e5db3.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T004539Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f68e681627d56c2cf49f1960c84709bd3d23f83faf08d203a4fed775679ea41c
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/a33216cd-233f-4726-a2e3-f20c5ed0208d-0000002f-00000000-000050de-c29018a342cab43fc39c3a5702d72fb8.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T135925Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b559e58b5cc4fcda69df760e7f81e31948c8a9be4267edd7827391437e5c446e
 ├ Downloading SQL to daily/2026-09-06/fbt-db.sql
 │
 🌀 Downloaded to daily/2026-09-06/fbt-db.sql successfully!

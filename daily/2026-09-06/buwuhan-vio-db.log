@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database buwuhan-vio-db (8d12729e-3b4b-419e-9304-392af6ce58ba):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/8d12729e-3b4b-419e-9304-392af6ce58ba-00000014-00000000-000050de-04dfe74a74fb1e498cd1fcb4a7f50eec.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T004550Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f6b78b262aaf84032fb78417fd4ea1701aa5ce59a555c17927ab54cec92c7029
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/8d12729e-3b4b-419e-9304-392af6ce58ba-00000017-00000000-000050de-36112d3121085b3d378abc5f27a7803b.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T135938Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=e42ea744b1ac7dfa916cba86e4a0d99d21847ae453d8c07457aca1f5989e6970
 ├ Downloading SQL to daily/2026-09-06/buwuhan-vio-db.sql
 │
 🌀 Downloaded to daily/2026-09-06/buwuhan-vio-db.sql successfully!
