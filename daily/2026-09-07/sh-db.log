@@ -6,7 +6,7 @@ Resource location: remote
 🌀 Executing on remote database sh-db (e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528):
 ├ Creating export
 │
-You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528-0000003e-00000000-000050de-937eed1ce9b62b796c2a9e2df04c0e41.sql?X-Amz-Expires=3600&X-Amz-Date=20260906T220028Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260906%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=719aa7e65cdf664f1cd029f5823454755de975e1f34aa568385292553ced4b0c
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528-00000041-00000000-000050df-b69d7a032e6cbe5c21381ae23059a1e4.sql?X-Amz-Expires=3600&X-Amz-Date=20260907T101355Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260907%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=556ce4dc0e43b331a0502ca4f382c724e2b35baae79b549212402dfb6e23029c
 ├ Downloading SQL to daily/2026-09-07/sh-db.sql
 │
 🌀 Downloaded to daily/2026-09-07/sh-db.sql successfully!
