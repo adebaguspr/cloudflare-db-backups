@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.130.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database sh-db (e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/e3f2ee0e-c6fd-4c23-a35a-b4905fbcd528-00000044-00000000-000050e0-b0a7e7aa4a836037c056ff13d7325d3f.sql?X-Amz-Expires=3600&X-Amz-Date=20260908T221946Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4a65f6de8ba36d3010ca8fd4c71c8b5c5d6235398ed82d5bad8d73da7dd52a8a
+├ Downloading SQL to daily/2026-09-09/sh-db.sql
+│
+🌀 Downloaded to daily/2026-09-09/sh-db.sql successfully!
