@@ -1,0 +1,12 @@
+
+ ⛅️ wrangler 4.135.0
+────────────────────
+Resource location: remote 
+
+🌀 Executing on remote database fbt-db (a33216cd-233f-4726-a2e3-f20c5ed0208d):
+├ Creating export
+│
+You can also download your export from the following URL manually. This link will be valid for one hour: https://1ad59b064bfa3690063414a9906129e4.r2.cloudflarestorage.com/d1-sqlio-outgoing-prod/a33216cd-233f-4726-a2e3-f20c5ed0208d-0000004f-00000000-000050ea-ad4365ed9dda69a13e15320cb193c55a.sql?X-Amz-Expires=3600&X-Amz-Date=20260918T220612Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f591b8dcd0794c54409cf0613171d42b%2F20260918%2Fauto%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00dd97268605114ba26d85867de38c3695779a8b1619898778b5a3a0b7691f44
+├ Downloading SQL to daily/2026-09-19/fbt-db.sql
+│
+🌀 Downloaded to daily/2026-09-19/fbt-db.sql successfully!
